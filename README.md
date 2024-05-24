@@ -18,7 +18,7 @@ pip install opencv-python
 
 ## Usage
 1.Clone the repository:
-git clone https://github.com/yourusername/snapsizer.git
+git clone https://github.com/maheswari28/Snap-Sizer.git
 
 2.Navigate to the project directory:
 cd snapsizer
